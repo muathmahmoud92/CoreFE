@@ -1,0 +1,11 @@
+.nav {
+  color: rgb(0, 8, 127);
+  text-decoration: none;
+  font-size: 20;
+  position: relative;
+  bottom: 5px;
+}
+
+.nav:hover {
+  text-decoration: underline;
+}
